@@ -8,4 +8,24 @@
 header {
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    background-color: #333;
 }
+
+header img {
+    width: 100px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
